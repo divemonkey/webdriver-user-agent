@@ -28,8 +28,12 @@ provides a UserAgent.driver method to return a new web-driver with user agent an
 * :agent
 	* :iphone (default)
 	* :ipad
+	* :mac
 	* :android_phone
 	* :android_tablet
+	* :windowsxp
+	* :windows7
+	* :windowsphone
 	* :random
 * :orientation
 	* :portrait (default)
